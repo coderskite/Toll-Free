@@ -34,7 +34,7 @@
 #### Object Detection (**Dharun**):
  1. Exporting the graph by using trained data 
  2. Testing the model 
- 3. Implementing MNIST for fetching numbers 
+ 3. Implementing Tesseract Engine for fetching numbers 
 
 #### Integration:
  1. Integrating with the web application. (**Dharun,Andrine**)
